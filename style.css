@@ -1,0 +1,39 @@
+
+#green{
+  background-color:#008000;
+  width: 90%;
+}
+#red{
+  background-color:#FF0000;
+  width:100%;
+}
+div{
+  height:100px;
+}
+#yellow{
+  background-color:#FFFF00;
+  width:29%;
+  float:left;
+}
+#blue{
+  background-color:#0000FF;
+  width: 70%;
+  float: right;
+  margin-right: 5px;
+}
+#gray{
+  background-color:#808080;
+  float:left;
+  width:60%;
+}
+
+#black{
+  background-color:black;
+  float:right;
+  width:38%;
+  margin-right: 5px;
+}
+#orange{
+  background-color:#FFA500;
+  width:100%;
+}
